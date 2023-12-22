@@ -20,7 +20,8 @@ Programming languages:
 Themes and icons:
 
 - [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
-- [Breaded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons)
+- [Gruvbox Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme)
+- [Material Product Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
 - [Dark+ Black](https://marketplace.visualstudio.com/items?itemName=VinceSalvino.dark-plus-black)
 - [Pitch Black Theme](https://marketplace.visualstudio.com/items?itemName=viktorqvarfordt.vscode-pitch-black-theme)
 - [Project Dark Theme](https://marketplace.visualstudio.com/items?itemName=matheugoes.project-dark-theme)
