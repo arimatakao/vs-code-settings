@@ -21,7 +21,11 @@ Themes and icons:
 
 - [Gruvbox Material](https://marketplace.visualstudio.com/items?itemName=sainnhe.gruvbox-material)
 - [Gruvbox Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=JonathanHarty.gruvbox-material-icon-theme)
-- [Material Product Icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-product-icons)
+- [Tabler Product Icons](https://marketplace.visualstudio.com/items?itemName=zguolee.tabler-icons)
+- [Material Theme Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
+- [Edge](https://marketplace.visualstudio.com/items?itemName=sainnhe.edge)
+- [Sonokai](https://marketplace.visualstudio.com/items?itemName=sainnhe.sonokai)
+- [Everforest](https://marketplace.visualstudio.com/items?itemName=sainnhe.everforest)
 - [Dark+ Black](https://marketplace.visualstudio.com/items?itemName=VinceSalvino.dark-plus-black)
 - [Pitch Black Theme](https://marketplace.visualstudio.com/items?itemName=viktorqvarfordt.vscode-pitch-black-theme)
 - [Project Dark Theme](https://marketplace.visualstudio.com/items?itemName=matheugoes.project-dark-theme)
