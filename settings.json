@@ -1,0 +1,79 @@
+{
+    "window.title": "${activeEditorMedium}${separator}${appName}",
+    "window.confirmBeforeClose": "always",
+    "window.menuBarVisibility": "toggle",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "hidden",
+    "workbench.startupEditor": "none",
+    "workbench.commandPalette.history": 15,
+    // Editor preview
+    "workbench.editor.enablePreview": false,
+    // Product icons theme
+    "workbench.productIconTheme": "Tabler",
+    // File icons themes
+    "workbench.iconTheme": "gruvbox-material-icon-theme",
+    // Tabs
+    "window.density.editorTabHeight": "compact",
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.pinnedTabSizing": "compact",
+    // Smooth scrolling
+    "workbench.list.smoothScrolling": true,
+    // Sticky scroll in explorer
+    "workbench.tree.enableStickyScroll": true,
+    // Smooth scorlling
+    "editor.smoothScrolling": true,
+    // Horizonal scrollbar
+    "editor.scrollbar.horizontalScrollbarSize": 12,
+    // Vertical scrollbar
+    "editor.scrollbar.verticalScrollbarSize": 20,
+    // Sticky scroll in editor
+    "editor.stickyScroll.enabled": true,
+    // Minimap in editor
+    "editor.minimap.enabled": false,
+    // Format file when saving
+    "editor.formatOnSave": true,
+    // Suggestion
+    "editor.inlineSuggest.showToolbar": "always",
+    "editor.quickSuggestions": {
+        "comments": "on"
+    },
+    // Tab symbol size
+    "editor.tabSize": 4,
+    // Tab symbol size for .go files
+    "[go]": {
+        "editor.tabSize": 8
+    },
+    // Editor font
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "500",
+    // Show whitespaces
+    "editor.renderWhitespace": "none",
+    // Cursor
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "editor.cursorSmoothCaretAnimation": "on",
+    // Vertical line (ruler, border)
+    "editor.rulers": [
+        {
+            "column": 100,
+            "color": "#ffd381"
+        }
+    ],
+    // Hover delay
+    "editor.hover.delay": 10,
+    // Trim whitespace
+    "files.trimTrailingWhitespace": true,
+    // Terminal
+    "terminal.integrated.enablePersistentSessions": false,
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "terminal.integrated.fontWeight": "500",
+    // Gruvbox Material Theme settings
+    "workbench.colorTheme": "Gruvbox Material Dark",
+    "gruvboxMaterial.darkContrast": "hard",
+    // Everforest Theme settings
+    "everforest.darkContrast": "hard",
+    // Vim extension
+    "vim.highlightedyank.enable": true,
+    "vim.highlightedyank.duration": 300,
+}
